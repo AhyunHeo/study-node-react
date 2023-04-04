@@ -13,5 +13,5 @@ git commit -m "commit_command"
 ```
 - push 
 ```
-git push origin master
+git push origin main
 ```
